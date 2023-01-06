@@ -1,0 +1,62 @@
+
+.box{
+	width: 200px;
+	height: 200px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+	margin: 100px 0 100px;
+}
+.yellow{
+	background-color: yellow;
+}
+.blue{
+	background-color: blue;
+	margin: 100px 0 100px;
+	padding: 100px;
+	border:10px solid black;
+}
+.header{
+/*	height: 100px;*/
+	min-height: 100px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+	border: 10px solid black;
+}
+.blog{
+	width: 45%;
+	height: 200px;
+	background-color: lightskyblue;
+	float: left;
+}
+.contact{
+	width: 45%;
+    height: 200px;
+    background-color: seagreen;
+    float: right;
+}
+
+.border{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+}
+.pink{
+	background-color: lightpink;
+}
+.yellow{
+	background-color: yellowgreen;
+}
+.orange{
+	background-color: orange;
+}
+.footer{
+	height:100px ;
+	background-color: brown;
+/*	clear:both ;*/
+}
